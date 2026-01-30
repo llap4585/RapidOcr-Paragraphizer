@@ -2,6 +2,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&label=Project%20Views&color=blue&style=flat-square)
 
+为了提高开发效率，本项目复用了项目 [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
+
+For better development efficiency, this project incorporates modules from [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
 [English](#english) | [中文](#chinese)
 
