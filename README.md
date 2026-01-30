@@ -205,7 +205,7 @@ This project builds upon the RapidOCR toolbox. If you use RapidOCR, please cite:
 If you use this project, please cite it as:
 
 @misc{llap4585,
-    title={RapidOcr-Paragraphizer:An OCR post-processing tool for scanned medical reports that reconstructs fragmented text lines into semantically coherent paragraphs.},
+    title={{RapidOcr-Paragraphizer}: Automatically merges scanned text into semantically linked paragraphs.},
     author={llap4585},
     howpublished = {\url{https://github.com/llap4585/RapidOcr-Paragraphizer}},
     year={2026}
