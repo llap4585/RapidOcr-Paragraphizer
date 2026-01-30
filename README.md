@@ -3,9 +3,11 @@
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&label=Project%20Views&color=blue&style=flat-square)
 
 
-[English](#english) | [中文](#chinese) | [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi)
+[English](#english) | [中文](#chinese)
 
 機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद
+
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi)
 
 ---
 
