@@ -1,4 +1,4 @@
-##RapidOcr-Paragraphizer
+# RapidOcr-Paragraphizer
 
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&label=Project%20Views&color=blue&style=flat-square)
 
@@ -205,7 +205,7 @@ This project builds upon the RapidOCR toolbox. If you use RapidOCR, please cite:
 If you use this project, please cite it as:
 
 @misc{llap4585,
-    title={RapidOCR-PreOCR: Preprocessing tool for improved RapidOCR text continuity},
+    title={RapidOcr-Paragraphizer:An OCR post-processing tool for scanned medical reports that reconstructs fragmented text lines into semantically coherent paragraphs.},
     author={llap4585},
     howpublished = {\url{https://github.com/llap4585/RapidOcr-Paragraphizer}},
     year={2026}
