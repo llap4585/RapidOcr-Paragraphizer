@@ -175,7 +175,7 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 ## Demo
 
 <div align="center">
-  <img src="./assets/demo_result.png" width="800px" alt="Demo">
+  <img src="./assets/demo_result.png" width="1000px" alt="Demo">
   <p>English: Left: Original. Middle: Raw output. Right: Processed result of this project.</p>
   <p>中文： 左图：原文。中图：未处理输出结果。右图：本项目处理结果</p>
   <p>
