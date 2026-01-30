@@ -178,6 +178,14 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
   <img src="./assets/demo_result.png" width="800px" alt="Demo">
   <p>Left: Original. Middle: Raw output. Right: Processed result of this project.</p>
   <p>左图：原文。中图：未处理输出结果。右图：本项目处理结果</p>
+  <p>
+    日本語：左図：原文。中図：未処理の出力結果。右図：本プロジェクトの処理結果<br>
+    Deutsch：Linkes Bild: Originaltext. Mittleres Bild: unbearbeitetes Ausgabeergebnis. Rechtes Bild: Ergebnis dieses Projekts<br>
+    Français：Image de gauche : texte original. Image du milieu : résultat de sortie non traité. Image de droite : résultat traité par ce projet<br>
+    Español：Imagen izquierda: texto original. Imagen central: resultado de salida sin procesar. Imagen derecha: resultado procesado por este proyecto<br>
+    हिन्दी：बाएँ चित्र: मूल पाठ। मध्य चित्र: अप्रक्रियात आउटपुट परिणाम। दाएँ चित्र: इस परियोजना द्वारा संसाधित परिणाम
+</p>
+
 </div>
 
 ---
