@@ -172,6 +172,19 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 `txts[i]= '\n' + str(txts[i]) +'\n'` या `txts[i]= '\n' +str(txts[i])`
 
 ---
+## Demo
+
+<div align="center">
+  <img src="./assets/demo_result.png" width="800px" alt="Demo">
+  <p>Left: Original. Middle: Raw output. Right: Processed result of this project.</p>
+</div>
+
+<div align="center">
+  <img src="./assets/demo_result.png" width="800px" alt="Demo">
+  <p>左图：原文。中图：未处理输出结果。右图：本项目处理结果</p>
+</div>
+
+---
 
 ## 🛡️ Privacy & Security
 
