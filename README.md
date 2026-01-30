@@ -1,4 +1,5 @@
-#RapidOcr-Paragraphizer
+##RapidOcr-Paragraphizer
+
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&label=Project%20Views&color=blue&style=flat-square)
 
 
