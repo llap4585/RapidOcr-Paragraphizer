@@ -1,6 +1,6 @@
 # RapidOCR-Paragraphizer
 # RapidOCR-识别后段落重组
-![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&label=Project%20Views&color=blue&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=llap4585&repo=RapidOcr-Paragraphizer&v=1&label=Project%20Views&color=blue&style=flat-square)
 
 For better development efficiency, this project incorporates modules from [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
