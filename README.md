@@ -11,12 +11,13 @@ For better development efficiency, this project incorporates modules from [llap4
 
 [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
 
-<p>
-[Demo](#Demo)<br>
-[Privacy & Security] (#Privacy)<br>
-[Requirements](#Requirements)<br>
-[References](#References)
-</p>
+
+<p>[Demo](#Demo)</p>
+<p>[Privacy & Security] (#Privacy)</p>
+<p>[Requirements](#Requirements)</p>
+<p>[References](#References)</p>
+
+
 ---
 
 <a name="english"></a>
