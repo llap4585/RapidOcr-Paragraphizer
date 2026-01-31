@@ -6,7 +6,7 @@ For better development efficiency, this project incorporates modules from [llap4
 
 为了提高开发效率，本项目复用了项目 [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
-[English](#english) | [中文](#chinese)
+[⭐️English](#english) | [⭐️中文](#chinese)
 
 機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद | 기계 번역
 
@@ -15,7 +15,7 @@ For better development efficiency, this project incorporates modules from [llap4
 ---
 
 <a name="english"></a>
-## English
+## ⭐️English
 
 **RapidOCR-Paragraphizer** is an OCR post-processing tool born from the need to handle **scanned medical report PDFs** (PDF splitting functionality is not provided; PyMuPDF is recommended). It focuses on paragraph-level structural reconstruction of RapidOCR recognition results.
 
@@ -37,7 +37,7 @@ Additionally, output effects can be optimized by adjusting the string concatenat
 ---
 
 <a name="chinese"></a>
-## 中文
+## ⭐️中文
 **RapidOCR-Paragraphizer** 是一款诞生于 **医学报告扫描PDF**的 OCR 后处理工具（未提供PDF拆分功能，推荐使用PyMuPDF），
 专注于对 RapidOCR 识别结果进行段落级结构重建。
 
