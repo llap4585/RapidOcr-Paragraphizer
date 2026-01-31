@@ -174,7 +174,7 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 ---
 
 <a name="korean"></a>
-## 한국어
+## 한국어 (기계 번역)
 **RapidOCR-Paragraphizer**는 **의료 보고서 스캔 PDF**를 기반으로 탄생한 OCR 후처리 도구입니다
 (PDF 분할 기능은 제공하지 않으며, PyMuPDF 사용을 권장합니다).
 본 도구는 RapidOCR의 인식 결과를 대상으로 **문단 단위의 구조 재구성**에 집중합니다.
