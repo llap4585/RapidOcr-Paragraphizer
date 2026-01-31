@@ -46,6 +46,8 @@ In practice, some parameters may need fine-tuning based on specific document typ
 Additionally, output effects can be optimized by adjusting the string concatenation logic based on document format:
 `txts[i]= '\n' + str(txts[i]) +'\n'` or `txts[i]= '\n' +str(txts[i])`
 
+[Demo](#Demo) 
+
 ---
 
 <a name="chinese"></a>
@@ -73,6 +75,8 @@ Additionally, output effects can be optimized by adjusting the string concatenat
 
 `txts[i]= '\n' + str(txts[i]) +'\n'` 或 `txts[i]= '\n' +str(txts[i])`
 
+[Demo](#Demo) 
+
 ---
 
 <a name="japanese"></a>
@@ -94,6 +98,8 @@ Additionally, output effects can be optimized by adjusting the string concatenat
 
 また、ドキュメント形式に応じて、より良い出力結果を得るために以下の処理を差し替えることが可能です：
 `txts[i]= '\n' + str(txts[i]) +'\n'` または `txts[i]= '\n' +str(txts[i])`
+
+[Demo](#Demo) 
 
 ---
 
@@ -117,6 +123,8 @@ In der Praxis müssen einige Parameter je nach Dokumenttyp feinjustiert werden, 
 Zudem kann die Ausgabe je nach Format optimiert werden:
 `txts[i]= '\n' + str(txts[i]) +'\n'` oder `txts[i]= '\n' +str(txts[i])`
 
+[Demo](#Demo) 
+
 ---
 
 <a name="francais"></a>
@@ -138,6 +146,8 @@ En pratique, certains paramètres doivent être ajustés selon le type de docume
 
 De plus, selon le format du document, vous pouvez modifier la concaténation pour un meilleur rendu :
 `txts[i]= '\n' + str(txts[i]) +'\n'` ou `txts[i]= '\n' +str(txts[i])`
+
+[Demo](#Demo) 
 
 ---
 
@@ -161,6 +171,8 @@ En el uso práctico, algunos parámetros requieren ajustes finos según el tipo 
 Además, el efecto de salida se puede optimizar según el formato del documento cambiando:
 `txts[i]= '\n' + str(txts[i]) +'\n'` o `txts[i]= '\n' +str(txts[i])`
 
+[Demo](#Demo) 
+
 ---
 
 <a name="hindi"></a>
@@ -182,6 +194,8 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 
 इसके अलावा, दस्तावेज़ प्रारूप के आधार पर बेहतर आउटपुट प्राप्त करने के लिए इसे बदला जा सकता है:
 `txts[i]= '\n' + str(txts[i]) +'\n'` या `txts[i]= '\n' +str(txts[i])`
+
+[Demo](#Demo) 
 
 ---
 
@@ -214,6 +228,8 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 
 `txts[i]= '\n' + str(txts[i]) + '\n'` 또는 `txts[i]= '\n' + str(txts[i])`
 
+[Demo](#Demo) 
+
 ---
 <a name="portuguese"></a>
 ## Português (Tradução automática)
@@ -240,6 +256,7 @@ Além disso, dependendo do formato do documento, substituições podem ser feita
 
 `txts[i]= '\n' + str(txts[i]) +'\n'` ou `txts[i]= '\n' +str(txts[i])`
 
+[Demo](#Demo) 
 
 ---
 <a name="Demo"></a>
