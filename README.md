@@ -8,9 +8,8 @@ For better development efficiency, this project incorporates modules from [llap4
 
 [⭐️English](#english) | [⭐️中文](#chinese)
 
-機械翻訳 | Maschinelle Übersetzung | Traduction automatique | Traducción Automática | मशीनी अनुवाद | 기계 번역
 
-[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean)
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
 
 ---
 
@@ -203,6 +202,33 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
 `txts[i]= '\n' + str(txts[i]) + '\n'` 또는 `txts[i]= '\n' + str(txts[i])`
 
 ---
+<a name="portuguese"></a>
+## Português (Tradução automática)
+**RapidOCR-Paragraphizer** é uma ferramenta de pós-processamento de OCR desenvolvida para **PDFs de relatórios médicos digitalizados** (não fornece função de divisão de PDF, recomenda-se usar PyMuPDF),  
+focada na reconstrução de estruturas de parágrafo a partir dos resultados do RapidOCR.
+
+Este projeto analisa a formatação e o layout nos resultados do OCR para combinar automaticamente linhas de texto originalmente discretas em parágrafos semanticamente coerentes,  
+melhorando a utilidade dos textos médicos em leitura, pesquisa, chamadas de API e cenários posteriores de processamento de linguagem natural.
+
+⚠️ **Limitações:**
+
+Este projeto utiliza métodos baseados em características de layout para reconstrução de parágrafos a partir dos resultados do OCR.  
+Devido à grande variação na formatação, fontes e espaçamento entre linhas em documentos digitalizados, **este algoritmo não garante funcionamento estável em todos os formatos de documento.**
+
+A solução atual visa fornecer uma **linha de base de reconstrução de parágrafos interpretável, ajustável e controlável**,  
+que pode servir como referência para métodos mais complexos de modelagem de layout ou aprendizagem futura.
+
+Durante o uso prático, alguns parâmetros precisam ser ajustados de acordo com o tipo específico de documento, por exemplo:
+
+* `indent_threshold`: usado para determinar o limiar de indentação de parágrafo  
+* `line_gap_threshold`: usado para diferenciar quebras de linha internas de espaçamento entre parágrafos  
+
+Além disso, dependendo do formato do documento, substituições podem ser feitas para obter melhores resultados de saída:
+
+`txts[i]= '\n' + str(txts[i]) +'\n'` ou `txts[i]= '\n' +str(txts[i])`
+
+
+---
 ## 📡 Demo
 
 <div align="center">
@@ -215,7 +241,8 @@ Además, el efecto de salida se puede optimizar según el formato del documento 
     Français：Image de gauche : texte original. Image du milieu : résultat de sortie non traité. Image de droite : résultat traité par ce projet<br>
     Español：Imagen izquierda: texto original. Imagen central: resultado de salida sin procesar. Imagen derecha: resultado procesado por este proyecto<br>
     हिन्दी：बाएँ चित्र: मूल पाठ। मध्य चित्र: अप्रक्रियात आउटपुट परिणाम। दाएँ चित्र: इस परियोजना द्वारा संसाधित परिणाम<br>
-    중국어 왼쪽 그림: 원문. 가운데 그림: 전처리되지 않은 출력 결과. 오른쪽 그림: 본 프로젝트의 처리 결과
+    중국어 왼쪽 그림: 원문. 가운데 그림: 전처리되지 않은 출력 결과. 오른쪽 그림: 본 프로젝트의 처리 결과<br>
+    Português: Imagem à esquerda: texto original. Imagem do meio: resultado sem processamento. Imagem à direita: resultado processado por este projeto.
 </p>
 
 </div>
