@@ -18,7 +18,7 @@ For better development efficiency, this project incorporates modules from [llap4
 
 [Requirements](#Requirements)
 
-[References](#References)<\p>
+[References](#References)
 
 
 ---
