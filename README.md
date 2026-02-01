@@ -7,6 +7,8 @@ For better development efficiency, this project incorporates modules from [llap4
 为了提高开发效率，本项目复用了项目 [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
 ---
+<a name="Introduction"></a>
+## Introduction
 
 [⭐️English](#english) | [⭐️中文](#chinese)
 
@@ -277,6 +279,9 @@ Além disso, dependendo do formato do documento, substituições podem ser feita
 </p>
 
 </div>
+
+
+[Introduction](#Introduction)
 
 ---
 <a name="Privacy"></a>
