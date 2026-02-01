@@ -295,6 +295,8 @@ Além disso, dependendo do formato do documento, substituições podem ser feita
 
 **第三方库声明：** 本工具运行所依赖的所有第三方库均由用户环境提供，这些第三方库及其相关组件不在本项目的管理与控制范围内。
 
+[Introduction](#Introduction)
+
 ---
 <a name="Requirements"></a>
 ## 🛠️ Requirements
@@ -304,6 +306,9 @@ opencv-python
 numpy
 rapidocr_onnxruntime
 ```
+
+[Introduction](#Introduction)
+
 ---
 <a name="References"></a>
 ## 💪References / Citation
@@ -326,6 +331,9 @@ If you use this project, please cite it as:
     year={2026}
 }
 ```
+
+[Introduction](#Introduction)
+
 ---
 
 > **Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. In case of any discrepancy, the Chinese version shall prevail.
