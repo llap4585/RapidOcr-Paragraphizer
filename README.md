@@ -8,8 +8,6 @@ For better development efficiency, this project incorporates modules from [llap4
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/llap4585/RapidOcr-Paragraphizer?style=social)](https://github.com/llap4585/RapidOcr-Paragraphizer/stargazers)
-
 If you like this project, give it a ⭐️ on GitHub!  
 Your support keeps the project going and motivates me to improve it. 😄
 
