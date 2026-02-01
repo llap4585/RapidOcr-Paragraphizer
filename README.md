@@ -7,6 +7,13 @@ For better development efficiency, this project incorporates modules from [llap4
 为了提高开发效率，本项目复用了项目 [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
 ---
+
+[![GitHub stars](https://img.shields.io/github/stars/llap4585/RapidOcr-Paragraphizer?style=social)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/stargazers)
+
+If you like this project, give it a ⭐️ on GitHub!  
+Your support keeps the project going and motivates me to improve it. 😄
+
+---
 <a name="Introduction"></a>
 ## Introduction
 
