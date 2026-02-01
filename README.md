@@ -335,5 +335,13 @@ If you use this project, please cite it as:
 [Introduction](#Introduction)
 
 ---
+>Notice:
+>
+>All essential instructions are included as comments within the code.
+>
+>No separate Quickstart guide is provided.
+>
+>I hate Quickstart!
+---
 
 > **Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. In case of any discrepancy, the Chinese version shall prevail.
