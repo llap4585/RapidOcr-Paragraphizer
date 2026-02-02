@@ -352,3 +352,5 @@ If you use this project, please cite it as:
 ---
 
 > **Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. In case of any discrepancy, the Chinese version shall prevail.
+
+> 总感觉用起来不是很稳定，有机会再改改代码。不过rapidocr本体虽然只有cpu性能好点，但是跑的还挺快的，轻也是优点。
