@@ -6,6 +6,8 @@ For better development efficiency, this project incorporates modules from [llap4
 
 为了提高开发效率，本项目复用了项目 [llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
 
+開発効率を向上させるために、このプロジェクトでは既存のプロジェクトを再利用しました。[llap4585/RapidOCR-PreOCR](https://github.com/llap4585/RapidOCR-PreOCR) 
+
 ---
 
 If you like this project, give it a ⭐️ on GitHub!  
